@@ -7,11 +7,6 @@
   "repository": "https://github.com/adeelsabqi11/DARK-MAFIA-XMD",
   "stack": "container",
   "env": {
-    "MONGO_URL": {
-      "description": "Put if you have mongodb database url",
-      "required": false,
-      "value": ""
-    },
      "HAPP": {
       "description": "Put the Heroku app name, same as above entered",
       "required": true,
