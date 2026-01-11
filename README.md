@@ -79,7 +79,7 @@ Easily connect to your WhatsApp account by pair code.
 1. [Sign Up on Heroku](https://signup.heroku.com/) if you haven’t already.
 2. Click the button below to deploy directly In Heroku:
    <br>
-   <a href='https://heroku.com/deploy?template=https://github.com/GlobTechInfo/MEGA-MD/Bypass' target="_blank">
+   <a href='https://heroku.com/deploy?template=https://github.com/adeelsabqi11/DARK-MAFIA-XMD' target="_blank">
       <img alt='Deploy In Heroku' src='https://img.shields.io/badge/-DEPLOY%20NOW-purple?style=for-the-badge&logo=heroku&logoColor=white'/>
    </a>
 
