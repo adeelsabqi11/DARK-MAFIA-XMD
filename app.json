@@ -1,10 +1,10 @@
 {
-  "name": "mega-md",
+  "name": "DARK-MAFIA-XMD",
   "description": " Whatsapp automation",
   "keywords": [
     "whatsapp Bot"
   ],
-  "repository": "https://github.com/GlobalTechInfo/MEGA-MD",
+  "repository": "https://github.com/adeelsabqi11/DARK-MAFIA-XMD",
   "stack": "container",
   "env": {
     "MONGO_URL": {
