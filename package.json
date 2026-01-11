@@ -1,5 +1,5 @@
 {
-  "name": "mega",
+  "name": "DARK-MAFIA-XMD",
   "version": "5.1.0",
   "description": "WhatsApp Bot",
   "main": "index.js",
@@ -18,12 +18,12 @@
   "install:force": "npm install --force",
   "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["termux-whatsapp-bot","whatsapp-bot","whatsapp-api","baileys-bot","whatsApp","mega-bot","mega-md","multi-device","mega-ai"],
-  "homepage": "https://github.com/GlobalTechInfo/MEGA-MD",
-  "repository": {"type": "git","url": "git+https://github.com/GlobalTechInfo/MEGA-MD.git"},
-  "bugs": {"url": "https://github.com/GlobalTechInfo/MEGA-MD/issues"},
+  "keywords": ["termux-whatsapp-bot","whatsapp-bot","whatsapp-api","baileys-bot","whatsApp","DARK-MAFIA-XMD","DARK-MAFIA-XMD","multi-device","DARK-MAFIA-XMD"],
+  "homepage": "https://github.com/adeelsabqi11/DARK-MAFIA-XMD",
+  "repository": {"type": "git","url": "git+https://github.com/adeelsabqi11/DARK-MAFIA-XMD.git"},
+  "bugs": {"url": "https://github.com/adeelsabqi11/DARK-MAFIA-XMD/issues"},
   "license": "MIT",
-  "author": "GlobalTechInfo",
+  "author": "DARK-MAFIA-XMD",
   "dependencies": {
   "@adiwajshing/keyed-db": "^0.2.4",
   "@whiskeysockets/baileys": "^7.0.0-rc.9",
@@ -71,7 +71,7 @@
   "overrides": {"jimp": "^1.6.0"},
   "engines": {"node": ">=20.0.0"},
   "contributors": [
-  {"name": "Qasim Ali","role": "Lead Developer"},
-  {"name": "GlobalTechInfo","role": "Maintainer"}
+  {"name": "𝐌ᴀғɪᴀ 𝐀ᴅᴇᴇʟ","role": "Lead Developer"},
+  {"name": "DARK-MAFIA-XMD","role": "Maintainer"}
   ]
 }
